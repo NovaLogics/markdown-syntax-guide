@@ -1665,3 +1665,9 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 <hr>
 
 <br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 12 | Markdown Alerts |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 12 | Markdown Alerts
