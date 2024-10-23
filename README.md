@@ -1871,3 +1871,26 @@ Alternative ways
 ```
 
 <br>
+
+<!-- --------------| 13.3 | Multi-line data |-|-------------- -->
+
+##
+### 13.3 ‣ Multi-line data
+
+`Preview :` 
+
+|Header 1|Header 2|Header 3|
+|---|---|---|
+| Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
+
+<br> 
+
+` Syntax : `
+
+```md
+|Header 1|Header 2|Header 3|
+|---|---|---|
+| Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
+```
+
+<br>
