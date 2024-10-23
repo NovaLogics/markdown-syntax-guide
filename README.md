@@ -999,3 +999,54 @@ this is an example of code.
     ```
 ```
 
+<!-- --------------| 7.2 | Fenced code blocks |-|-------------- -->
+
+##
+### 7.2 ‣ Fenced code blocks
+In GitHub Flavored Markdown (GFM), you can create code blocks by wrapping your code with three backticks, avoiding the need for leading spaces. <br>
+You can also add an optional language identifier to enable syntax highlighting for your code.
+
+` Syntax : Java`
+
+````md
+```java
+public static void main(String[]args){} 
+//Java Code
+```
+````
+
+<br>
+
+` Syntax : Javascript`
+
+````md
+```javascript
+console.log('javascript')
+//Javascipt code
+```
+````
+
+<br>
+
+` Syntax : Python`
+
+````md
+```python
+print('python')
+```
+````
+
+<br>
+
+` Syntax : Json`
+
+````md
+```json
+{
+  "firstName": "A",
+  "lastName": "B",
+  "age": 18
+}
+```
+````
+
