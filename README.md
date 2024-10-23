@@ -41,7 +41,8 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
     - <samp> CheckBox ○ Pie Chart ○ Badges ○ Custom Buttons ○ </samp>  
 12. [Markdown Alerts](#12--markdown-alerts)
     - <samp> NOTE ○ TIP ○ IMPORTANT ○ WARNING ○ CAUTION ○ </samp> 
-
+13. [Tables](#13--tables)
+    - <samp> Basic Table types ○ Table Alignment ○ Multi-line data ○ Nested Table ○ Table Styling ○  </samp>  
 
 <br>  
 
@@ -2033,3 +2034,16 @@ Alternative ways
 </table>
 ```
 
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
