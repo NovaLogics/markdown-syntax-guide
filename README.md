@@ -1127,3 +1127,24 @@ company: ***
 <!-- ---------------------------------------------- -->
 
 # 8 | Text Decoration 
+
+<!-- --------------| 8.1 | Text Highlighting |-|-------------- -->
+
+### 8.1 ‣ Text Highlighting
+
+Using backticks( ` ) is a simple way to create tags for articles, such as <br>
+<br>
+
+*Preview :*
+
+
+`GitHub` : Let's build from here - `any important text`
+
+<br>
+
+**Syntax :**
+
+
+```git
+`GitHub` : Let's build from here - `any important text`
+```
