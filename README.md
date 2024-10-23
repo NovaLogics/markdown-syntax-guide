@@ -24,3 +24,25 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 <!-- ---------------------------------------------- -->
 
 # 1 | Headings
+
+`Preview :`
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+<br>
+
+` Syntax : `
+
+```git
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
