@@ -431,3 +431,42 @@ Alternative ways
 <!-- ---------------------------------------------- -->
 
 # 4 | Links
+
+<!-- --------------| 4.2 | Basic Types |-|-------------- -->
+
+## 4.1 ‣ Basic Types
+
+- Auto link <br>
+
+`Preview :`
+
+Web   : https://github.com
+
+Email : support@github.com
+ 
+<br>
+
+` Syntax : `
+
+```md
+Web   : https://github.com
+Email : support@github.com
+```
+<br>
+
+#
+- Enclosed link <> <br>
+
+`Preview :`
+
+GitHub : Let's build from here · <https://github.com>
+ 
+<br>
+
+` Syntax : `
+
+```md
+GitHub : Let's build from here · <https://github.com>
+```
+
+<br>
