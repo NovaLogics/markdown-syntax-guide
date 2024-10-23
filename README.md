@@ -854,3 +854,31 @@ Github markdown cheat sheet [^2].
 </p>
 ```
 ##
+
+<!-- --------------| 6.2.2 | Center Alignment |-|-------------- -->
+
+### Center
+
+`Preview :`
+
+<p align="center">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+
+<br>
+
+` Syntax : `
+
+```md
+<p align="center">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+```
