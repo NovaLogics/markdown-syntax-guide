@@ -78,3 +78,23 @@ H2
 
 # 2 | Text styles
 <!-- --------------| 2.1 | Bold |-|-------------- -->
+
+`Preview :`
+
+**Bold Text Style**  
+
+<br>
+
+` Syntax : `
+
+```md
+**Bold Text Style**
+```
+
+Alternative ways to **bold text** 
+
+```md
+Alternative ways to __bold text__
+Alternative ways to <strong>bold text</strong>
+```
+<br>
