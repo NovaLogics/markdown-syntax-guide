@@ -1714,3 +1714,23 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 > Additional advice to aid users in achieving better outcomes.
 ```
 <br>
+
+<!-- --------------| 12.3 | IMPORTANT |-|-------------- -->
+
+##
+### 12.3 ‣ IMPORTANT
+
+`Preview :` 
+
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+```
+<br>
