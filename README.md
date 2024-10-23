@@ -35,6 +35,8 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
    - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
 9. [Line Settings](#9--line-settings)
    - <samp> Horizontal Line ○ Line break ○ </samp>  
+10. [Mathematical Expressions](#10--mathematical-expressions)
+    - <samp> Inline expressions ○ Block Expressions ○ </samp>  
 
 
 <br>  
@@ -1507,3 +1509,16 @@ $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```md
 $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
