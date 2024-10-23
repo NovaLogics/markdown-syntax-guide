@@ -15,6 +15,9 @@ Beginner to Expert
 
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
+## Contents
+ -Adding Soon-
+
 <br>  
 
 <hr>
@@ -264,4 +267,35 @@ This is the   <sup>Superscript</sup>   text style
 This is the <sup>Superscript</sup> text style  
 2 <sup>3</sup> = 8
 ```
+<br>
+
+<!-- --------------| 2.10 | Monospaced |-|-------------- -->
+
+## 2.10 ‣ Monospaced
+
+`Preview :`
+
+This is the normal text style  
+<samp>This is the Monospaced text style</samp> 
+
+<br>
+
+` Syntax : `
+
+```md
+<samp>This is the Monospaced text style</samp> 
+```
+
+<br>  
+
+<hr>
+
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+
+<hr>
+
 <br>
