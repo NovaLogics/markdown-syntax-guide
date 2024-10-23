@@ -171,3 +171,20 @@ Alternative ways to <strike>strikethrough text</strike>
 Alternative ways to <strike>strikethrough text</strike>
 ```
 <br>
+
+<!-- --------------| 2.5 | Bold, Italic and Strikethrough |-|-------------- -->
+
+## 2.5 ‣ Bold, Italic and Strikethrough
+
+`Preview :`
+
+***~~Bold, Italic and Strikethrough Text~~***
+
+<br>
+
+` Syntax : `
+
+```md
+***~~Bold, Italic and Strikethrough Text~~***
+```
+<br>
