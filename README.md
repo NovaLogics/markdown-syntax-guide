@@ -1671,3 +1671,26 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 <!-- ---------------------------------------------- -->
 
 # 12 | Markdown Alerts
+
+Alerts are special features in Markdown used to highlight important information.  
+On GitHub, these alerts are shown with different colors and icons to help users quickly understand how important the content is.
+
+<!-- --------------| 12.1 | NOTE |-|-------------- -->
+
+##
+### 12.1 ‣ NOTE
+
+`Preview :` 
+
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+```
+<br>
