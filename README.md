@@ -1694,3 +1694,23 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 > Essential details that users should not overlook, even when browsing quickly.
 ```
 <br>
+
+<!-- --------------| 12.2 | TIP |-|-------------- -->
+
+##
+### 12.2 ‣ TIP
+
+`Preview :` 
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+```
+<br>
