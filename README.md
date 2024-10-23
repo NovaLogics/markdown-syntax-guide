@@ -1737,7 +1737,6 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 
 <!-- --------------| 12.4 | WARNING |-|-------------- -->
 
-
 ##
 ### 12.4 ‣ WARNING
 
@@ -1755,3 +1754,22 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 > Urgent content that requires immediate user focus due to possible risks.
 ```
 <br>
+
+<!-- --------------| 12.5 | CAUTION |-|-------------- -->
+
+##
+### 12.5 ‣ CAUTION
+
+`Preview :` 
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+```
