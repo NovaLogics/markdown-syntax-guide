@@ -1306,3 +1306,24 @@ For example:
 ```md
 [Back to contents](#contents)
 ```
+
+<!-- --------------| 8.7 | Visible markdown characters |-|-------------- -->
+
+##
+### 8.7 ‣ Visible markdown characters
+
+To make special characters visible in Markdown, you can escape them using a backslash (\\).  
+Here are some common examples:
+
+`Preview :`
+
+\<br>
+
+
+` Syntax : `
+
+```md
+\<br>
+```
+
+
