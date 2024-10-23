@@ -188,3 +188,20 @@ Alternative ways to <strike>strikethrough text</strike>
 ***~~Bold, Italic and Strikethrough Text~~***
 ```
 <br>
+
+<!-- --------------| 2.6 | Underlined |-|-------------- -->
+
+## 2.6 ‣ Underlined
+
+`Preview :`
+
+<ins>Underlined Text Style</ins>
+
+<br>
+
+` Syntax : `
+
+```md
+<ins>Underlined Text Style</ins>
+```
+<br>
