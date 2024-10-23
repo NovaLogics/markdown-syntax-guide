@@ -1133,7 +1133,6 @@ company: ***
 ### 8.1 ‣ Text Highlighting
 
 Using backticks( ` ) is a simple way to create tags for articles, such as 
-<br>
 
 <br>
 
@@ -1150,3 +1149,33 @@ Using backticks( ` ) is a simple way to create tags for articles, such as
 ```git
 `GitHub` : Let's build from here - `any important text`
 ```
+
+<!-- --------------| 8.2 | Emoji |-|-------------- -->
+
+##
+### 8.2 ‣ Emoji
+
+`Preview :and: Syntax`
+
+
+🌳 🐻 🍯 🌺
+
+You can easily add emojis by placing them directly in your text, like this: 🌳 🐻 🍯 🌺
+
+or you can use shortcode format
+
+
+`Preview :`
+
+
+:deciduous_tree: :bear: :honey_pot: :hibiscus:
+
+
+` Syntax : `
+
+```md
+:deciduous_tree: :bear: :honey_pot: :hibiscus:
+```
+
+
+For a comprehensive list of all supported emojis on GitHub, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
