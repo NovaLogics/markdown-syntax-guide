@@ -432,7 +432,7 @@ Alternative ways
 
 # 4 | Links
 
-<!-- --------------| 4.2 | Basic Types |-|-------------- -->
+<!-- --------------| 4.1 | Basic Types |-|-------------- -->
 
 ## 4.1 ‣ Basic Types
 
@@ -467,6 +467,26 @@ GitHub : Let's build from here · <https://github.com>
 
 ```md
 GitHub : Let's build from here · <https://github.com>
+```
+
+<br>
+
+<!-- --------------| 4.2 | Link Label  |-|-------------- -->
+
+## 4.2 ‣ Link Label 
+
+`Preview :`
+
+[GitHub](https://github.com) : Let's build from here <br>
+Hi, [sign in](https://github.com/login) to GitHub
+ 
+<br>
+
+` Syntax : []()`
+
+```md
+[GitHub](https://github.com) : Let's build from here
+Hi, [sign in](https://github.com/login) to GitHub
 ```
 
 <br>
