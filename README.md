@@ -1179,3 +1179,43 @@ or you can use shortcode format
 
 
 For a comprehensive list of all supported emojis on GitHub, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+<!-- --------------| 8.3 | Quoting Text / Blockquotes |-|-------------- -->
+
+##
+### 8.3 ‣ Quoting Text / Blockquotes >
+
+`Preview :`
+
+> This is a block quoted text
+
+<br>
+
+` Syntax : `
+
+```git
+> This is a block quoted text
+```
+<br>
+
+**Difference**
+<br>
+<br>
+
+`Preview :`
+
+This is a normal text
+> Block quoted text  
+
+This is a normal text
+
+<br>
+
+` Syntax : `
+
+```git
+This is a normal text
+> Block quoted text
+This is a normal text
+```
