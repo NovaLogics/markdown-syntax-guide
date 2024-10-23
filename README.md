@@ -205,3 +205,24 @@ Alternative ways to <strike>strikethrough text</strike>
 <ins>Underlined Text Style</ins>
 ```
 <br>
+
+<!-- --------------| 2.7 | Boxed |-|-------------- -->
+
+## 2.7 ‣ Boxed
+
+`Preview :`
+
+<table><tr><td>
+Boxed Text Style
+</td></tr></table>
+
+<br>
+
+` Syntax : `
+
+```md
+<table><tr><td>
+Boxed Text Style
+</td></tr></table>
+```
+<br>
