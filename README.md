@@ -1362,3 +1362,56 @@ You can add comments in Markdown using HTML-style comments:
 <!-- ---------------------------------------------- -->
 
 # 9 | Line Settings
+
+<!-- --------------| 9.1 | Horizontal Line |-|-------------- -->
+
+### 9.1 ‣ Horizontal Line
+
+### ‣ Style 1
+
+`Preview :`
+
+#
+
+<br>
+
+` Syntax : `
+
+```md
+#
+```
+
+Alternative ways
+
+```md
+##
+```
+<br>
+
+### ‣ Style 2
+
+`Preview :` 
+
+___
+
+<br>
+
+` Syntax : `
+
+```md
+___
+```
+
+Alternative ways
+
+```md
+***
+```
+
+```md
+--- 
+```
+
+```md
+<hr>
+```
