@@ -16,7 +16,23 @@ Beginner to Expert
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
 ## Contents
- -Adding Soon-
+
+1. [Headings](#1--headings)
+   - <samp> H1 to H6 tags </samp>  
+2. [Text styles](#2--text-styles)
+   - <samp> Bold ○ Italic ○ Strikethrough ○ Underlined ○ Subscript ○ Superscript ○ and more.. </samp>  
+3. [Lists](#3--lists)
+   - <samp> Ordered ○ Unordered ○ </samp>  
+4. [Links](#4--links)
+   - <samp> Auto link ○ Link Label ○ Hover ○ Repository Links ○ Footnote ○ and more.. </samp>  
+5. [Images](#5--images)
+   - <samp> Basic tags ○ Image Embed element ○ GIF ○ Icons ○ Image with click action ○ </samp>  
+6. [Alignments](#6--alignments)
+   - <samp> Text Alignments ○ Image Alignments ○ </samp>  
+7. [Code Block](#7--code-block)
+   - <samp> Basic styles ○ Fenced code blocks ○ Diff Code block ○ </samp>  
+8. [Text Decoration](#8--text-decoration)
+   - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
 
 <br>  
 
