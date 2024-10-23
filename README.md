@@ -123,3 +123,27 @@ Alternative ways to _italic text_
 Alternative ways to <em>italic text</em>
 ```
 <br>
+
+<!-- --------------| 2.3 | Bold and Italic |-|-------------- -->
+
+## 2.3 ‣ Bold and Italic
+
+`Preview :`
+
+***Bold and Italic Text Style***
+
+<br>
+
+` Syntax : `
+
+```md
+***Bold and Italic Text Style***
+```
+
+Alternative ways to **_bold and italic text_**  
+
+```md
+Alternative ways to **_bold and italic text_** 
+Alternative ways to <strong><em>bold and italic text</em></strong>
+```
+<br>
