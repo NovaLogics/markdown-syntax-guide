@@ -740,3 +740,57 @@ Github markdown cheat sheet [^2].
 
 <br>
 
+<!-- --------------| 5.3 | Image with click action  |-|-------------- -->
+
+## 5.3 ‣ Image with click action
+
+`Preview :`
+
+[![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
+
+<br>
+
+` Syntax : `
+
+```md
+[![GitHub](https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png)](https://github.com)
+```
+
+<br>
+<br>
+<br>
+
+
+`Preview :`
+
+<a 
+  href='https://github.com' 
+  target='_blank'> 
+  <img src='https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png' /> 
+</a>
+
+<br>
+
+` Syntax : `
+
+```md
+<a 
+  href='https://github.com' 
+  target='_blank'> 
+  <img src='https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png' /> 
+</a>
+```
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
+
+
