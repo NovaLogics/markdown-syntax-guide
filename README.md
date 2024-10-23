@@ -147,3 +147,27 @@ Alternative ways to **_bold and italic text_**
 Alternative ways to <strong><em>bold and italic text</em></strong>
 ```
 <br>
+
+<!-- --------------| 2.4 | Strikethrough |-|-------------- -->
+
+## 2.4 ‣ Strikethrough
+
+`Preview :`
+
+~~Strikethrough Text~~
+
+<br>
+
+` Syntax : `
+
+```md
+~~Strikethrough Text~~
+```
+
+Alternative ways to <strike>strikethrough text</strike>
+
+
+```md
+Alternative ways to <strike>strikethrough text</strike>
+```
+<br>
