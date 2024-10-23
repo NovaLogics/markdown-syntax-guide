@@ -39,6 +39,9 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
     - <samp> Inline expressions ○ Block Expressions ○ </samp>  
 11. [View components](#11--view-components)
     - <samp> CheckBox ○ Pie Chart ○ Badges ○ Custom Buttons ○ </samp>  
+12. [Markdown Alerts](#12--markdown-alerts)
+    - <samp> NOTE ○ TIP ○ IMPORTANT ○ WARNING ○ CAUTION ○ </samp> 
+
 
 <br>  
 
@@ -1773,3 +1776,16 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 > [!CAUTION]
 > Possible negative outcomes resulting from an action.
 ```
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
