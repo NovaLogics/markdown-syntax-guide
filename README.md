@@ -33,6 +33,9 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
    - <samp> Basic styles ○ Fenced code blocks ○ Diff Code block ○ </samp>  
 8. [Text Decoration](#8--text-decoration)
    - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
+9. [Line Settings](#9--line-settings)
+   - <samp> Horizontal Line ○ Line break ○ </samp>  
+
 
 <br>  
 
@@ -1342,7 +1345,6 @@ You can add comments in Markdown using HTML-style comments:
 
 #### NOTE : These comments will be invisible when viewing the README file.
 
-
 <br>
 
 <br>  
@@ -1433,3 +1435,16 @@ This is a <br>normal text
 This is a <br>normal text
 ```
 
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
