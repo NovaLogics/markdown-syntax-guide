@@ -1585,3 +1585,38 @@ pie
 ```
 ````
 <br>
+
+<!-- --------------| 11.3 | Badges |-|-------------- -->
+
+##
+### 11.3 ‣ Badges
+
+To get dynamically generated GitHub stats on your READMEs, check out [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) !
+
+
+`Preview :` 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaLogics)](https://github.com/NovaLogics/github-readme-stats)
+
+` Syntax : `
+<br>
+**Change the `?username= value` to your GitHub username.**
+````md
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaLogics)](https://github.com/NovaLogics/github-readme-stats)
+````
+
+#
+`Preview :` 
+<br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics)](https://github.com/NovaLogics)
+
+<br>  
+
+` Syntax : `
+<br>
+**Change the `?username= value` to your GitHub username.**
+````md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics)](https://github.com/NovaLogics)
+````
+
+<br>
