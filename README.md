@@ -226,3 +226,23 @@ Boxed Text Style
 </td></tr></table>
 ```
 <br>
+
+<!-- --------------| 2.8 | Subscript |-|-------------- -->
+
+## 2.8 ‣ Subscript
+
+`Preview :`
+
+This is the   <sub>Subscript</sub>   text style  
+log<sub>2</sub>(x)
+
+<br>
+
+` Syntax : `
+
+```md
+This is the <sub>Subscript</sub> text style  
+log<sub>2</sub>(x)
+```
+
+<br>
