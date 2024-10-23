@@ -246,3 +246,22 @@ log<sub>2</sub>(x)
 ```
 
 <br>
+
+<!-- --------------| 2.9 | Superscript |-|-------------- -->
+
+## 2.9 ‣ Superscript
+
+`Preview :`
+
+This is the   <sup>Superscript</sup>   text style  
+2 <sup>3</sup> = 8
+
+<br>
+
+` Syntax : `
+
+```md
+This is the <sup>Superscript</sup> text style  
+2 <sup>3</sup> = 8
+```
+<br>
