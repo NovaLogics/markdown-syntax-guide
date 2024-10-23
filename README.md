@@ -78,6 +78,7 @@ H2
 
 # 2 | Text styles
 <!-- --------------| 2.1 | Bold |-|-------------- -->
+## 2.1 ‣ Bold
 
 `Preview :`
 
@@ -96,5 +97,29 @@ Alternative ways to **bold text**
 ```md
 Alternative ways to __bold text__
 Alternative ways to <strong>bold text</strong>
+```
+<br>
+
+<!-- --------------| 2.2 | Italic |-|-------------- -->
+
+## 2.2 ‣ Italic
+
+`Preview :`
+
+*Italic Text Style*  
+
+<br>
+
+` Syntax : `
+
+```md
+*Italic Text Style*
+```
+
+Alternative ways to *italic text*   
+
+```md
+Alternative ways to _italic text_
+Alternative ways to <em>italic text</em>
 ```
 <br>
