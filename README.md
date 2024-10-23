@@ -970,8 +970,32 @@ Github markdown cheat sheet [^2].
 
 <br>
 
+
 <!-- ---------------------------------------------- -->
 <!-- --------------| 7 | Code Block |-|-------------- -->
 <!-- ---------------------------------------------- -->
 
 # 7 | Code Block
+
+<!-- --------------| 7.1 | Basic style |-|-------------- -->
+
+### 7.1 ‣ Basic style
+
+You can create code blocks by placing triple backticks ``` before and after the code block. 
+
+`Preview :`
+
+```
+this is an example of code.
+```
+
+<br>
+
+` Syntax : `
+
+```
+    ```
+    this is an example of code.
+    ```
+```
+
