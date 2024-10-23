@@ -709,3 +709,34 @@ Github markdown cheat sheet [^2].
 <br>
 
 ##
+
+<!-- --------------| 5.2.3 | Element : Icons |-|-------------- -->
+
+### ‣ Icons
+
+`Preview :`
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<img 
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
+    width="88" 
+    height="30" 
+/>
+
+<br>
+
+` Syntax : `
+
+```md
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<img 
+    src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
+    width="88" 
+    height="30" 
+/>
+```
+
+<br>
+
