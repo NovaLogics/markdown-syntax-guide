@@ -306,3 +306,56 @@ This is the normal text style
 
 # 3 | Lists
 
+<!-- --------------| 3.1 | Ordered |-|-------------- -->
+## 3.1 ‣ Ordered 
+
+`Preview :`
+
+1. First level - Item one
+2. First level - Item two
+3. First level - Item three
+
+<br>
+
+` Syntax : `
+
+```md
+1. First level - Item one
+2. First level - Item two
+3. First level - Item three
+```
+<br>
+
+##
+### Multi level
+
+`Preview :`
+
+1. First level
+    1. Second level
+        1. Third level
+            - Fourth level
+        2. Third level
+            - Fourth level
+     2. Second level  
+2. First level
+    1. Second level
+
+
+<br>
+
+` Syntax : `
+
+
+```md
+1. First level
+    1. Second level
+        1. Third level
+            - Fourth level
+        2. Third level
+            - Fourth level
+     2. Second level  
+2. First level
+    1. Second level
+```
+<br>
