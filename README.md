@@ -799,3 +799,58 @@ Github markdown cheat sheet [^2].
 <!-- ---------------------------------------------- -->
 
 # 6 | Alignments
+
+<!-- --------------| 6.1 | Text Alignments |-|-------------- -->
+
+## 6.1 ‣ Text Alignments
+
+
+`Preview :`
+
+<h3 align="left"> Heading Left </h3>
+<h3 align="center"> Heading Center </h3>
+<h3 align="right"> Heading Right </h3>
+
+<br>
+
+` Syntax : `
+
+```md
+<h3 align="left"> Heading Left </h3>
+<h3 align="center"> Heading Center </h3>
+<h3 align="right"> Heading Right </h3>
+```
+<br>
+
+<!-- --------------| 6.2 | Image Alignments |-|-------------- -->
+
+## 6.2 ‣ Image Alignments
+
+<!-- --------------| 6.2.1 | Left Alignment |-|-------------- -->
+
+### Left
+
+`Preview :`
+
+<p align="left">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+
+<br>
+
+` Syntax : `
+
+```md
+<p align="left">
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+/>
+</p>
+```
+##
