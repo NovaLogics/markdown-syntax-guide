@@ -289,13 +289,11 @@ This is the normal text style
 <br>  
 
 <hr>
-
 <div align="center">
    
   <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
 
 </div>
-
 <hr>
 
 <br>
@@ -427,3 +425,9 @@ Alternative ways
 <hr>
 
 <br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 4 | Links |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 4 | Links
