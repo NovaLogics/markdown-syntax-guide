@@ -1894,3 +1894,63 @@ Alternative ways
 ```
 
 <br>
+
+<!-- --------------| 13.4 | Nested Table |-|-------------- -->
+
+##
+### 13.4 ‣ Nested Table
+
+`Preview :` 
+
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+
+<td>
+
+| H 1 | H 2 |
+|--|--|
+| Data 1 | Data 2 |
+
+</td><td>
+
+| H 1 | H 2 | H 3 |
+|--|--|--|
+| Data 1 | Data 2 | Data 3 |
+
+</td></tr> 
+</table>
+
+<br> 
+
+` Syntax : `
+
+```md
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+
+<td>
+
+| H 1 | H 2 |
+|--|--|
+| Data 1 | Data 2 |
+
+</td><td>
+
+| H 1 | H 2 | H 3 |
+|--|--|--|
+| Data 1 | Data 2 | Data 3 |
+
+</td></tr> 
+</table>
+```
+
+<br>
+
