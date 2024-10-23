@@ -629,6 +629,7 @@ Github markdown cheat sheet [^2].
 <!-- --------------| 5.1 | Basic Image  |-|-------------- -->
 
 ## 5.1 ‣ Basic Image 
+
 <kbd> !\[Alternative-text](URL "Title-text") </kbd>
 
 *Alternative text and title text are optional*
@@ -647,3 +648,34 @@ Github markdown cheat sheet [^2].
 ```
 
 <br>
+
+<!-- --------------| 5.2 | Image Embed element  |-|-------------- -->
+
+## 5.2 ‣ Image Embed element : \<img>
+
+### ‣ Image
+
+`Preview :`
+
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    border="5"
+/>
+
+<br>
+
+` Syntax : `
+
+```md
+<img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    border="5"
+/>
+```
+<br>
+
+##
