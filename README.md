@@ -1556,3 +1556,32 @@ $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 ```
 <br>
 
+<!-- --------------| 11.2 | Pie Chart |-|-------------- -->
+
+##
+### 11.2 ‣ Pie Chart
+
+<br>
+
+`Preview :` 
+<br>
+
+```mermaid
+pie
+    "Dogs" : 450
+    "Cats" : 500
+    "Parrots" : 50
+```
+
+` Syntax : `
+<br>
+
+````md
+```mermaid
+pie
+    "Dogs" : 450
+    "Cats" : 500
+    "Parrots" : 50
+```
+````
+<br>
