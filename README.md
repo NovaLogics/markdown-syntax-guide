@@ -1284,3 +1284,25 @@ Second level
 Third level  
 ```
 
+<!-- --------------| 8.6 | Anchor |-|-------------- -->
+
+##
+### 8.6 ‣ Anchor
+
+Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an HTML anchor (#).   
+For example:
+
+#### NOTE : Keep in mind that all letters in the title are converted to lowercase.
+
+`Preview :`
+
+[Back to contents](#contents)
+
+
+<br>
+
+` Syntax : `
+
+```md
+[Back to contents](#contents)
+```
