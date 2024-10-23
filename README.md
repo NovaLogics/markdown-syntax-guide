@@ -653,6 +653,8 @@ Github markdown cheat sheet [^2].
 
 ## 5.2 ‣ Image Embed element : \<img>
 
+<!-- --------------| 5.2.1 | Element : Image |-|-------------- -->
+
 ### ‣ Image
 
 `Preview :`
@@ -676,6 +678,34 @@ Github markdown cheat sheet [^2].
     border="5"
 />
 ```
+<br>
+
+##
+
+<!-- --------------| 5.2.2 | Element : GIF |-|-------------- -->
+
+### ‣ GIF
+
+`Preview :`
+
+<img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuamM2eW13ZnNjZ3R4aGNubGp3OHljN2I5cTlsZndkanJqc3g5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
+    width="128" 
+    height="148" 
+/>
+
+<br>
+
+` Syntax : `
+
+```md
+<img 
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RuamM2eW13ZnNjZ3R4aGNubGp3OHljN2I5cTlsZndkanJqc3g5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" 
+    width="128" 
+    height="148" 
+/>
+```
+
 <br>
 
 ##
