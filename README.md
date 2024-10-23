@@ -1415,3 +1415,21 @@ Alternative ways
 ```md
 <hr>
 ```
+
+<!-- --------------| 9.2 | Break between lines |-|-------------- -->
+
+##
+### 9.2 ‣ Break between lines \<br>
+
+`Preview :`
+
+This is a <br>normal text
+
+<br>
+
+` Syntax : `
+
+```md
+This is a <br>normal text
+```
+
