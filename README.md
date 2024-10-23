@@ -1326,4 +1326,20 @@ Here are some common examples:
 \<br>
 ```
 
+<!-- --------------| 8.8 | Comments in Markdown |-|-------------- -->
+
+##
+### 8.8 ‣ Comments in Markdown
+
+You can add comments in Markdown using HTML-style comments:
+
+
+` Syntax : `
+
+```md
+<!-- comment written in markdown -->
+```
+
+#### NOTE : These comments will be invisible when viewing the README file.
+
 
