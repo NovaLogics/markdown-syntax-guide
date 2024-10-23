@@ -1954,3 +1954,82 @@ Alternative ways
 
 <br>
 
+<!-- --------------| 13.5 | Styling |-|-------------- -->
+
+##
+### 13.5 ‣ Styling
+
+`Preview :` 
+
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+<td>
+    
+<pre>
+    <h3 align="center"> This is a Cool Icon  </h3>
+
+    <img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    />
+
+</pre>
+
+</td>
+<td>
+    
+<pre lang="js">
+    console.log('Hello');
+    console.log('World!');
+    console.log('This is');
+    console.log('JavaScript');
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br> 
+
+` Syntax : `
+
+```md
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+<td>
+    
+<pre>
+    <h3 align="center"> This is a Cool Icon  </h3>
+
+    <img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    />
+
+</pre>
+
+</td>
+<td>
+    
+<pre lang="js">
+    console.log('Hello');
+    console.log('World!');
+    console.log('This is');
+    console.log('JavaScript');
+</pre>
+
+</td>
+</tr>
+</table>
+```
+
