@@ -1448,3 +1448,11 @@ This is a <br>normal text
 <hr>
 
 <br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 10 | Mathematical Expressions |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 10 | Mathematical Expressions
+
+You can use LaTeX-style syntax to render math expressions in Markdown, allowing you to present mathematical content both inline (using `$` delimiters) and as blocks (using `$$` delimiters)
