@@ -1529,3 +1529,30 @@ $$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
 
 # 11 | View Components
 
+<!-- --------------| 11.1 | CheckBox |-|-------------- -->
+
+### 11.1 ‣ CheckBox
+
+`Preview :` 
+<br>
+
+* [ ] Checkbox 1
+
+* [x] Checkbox 2 Selected
+
+* [ ] Checkbox 3
+
+<br>
+
+` Syntax : `
+<br>
+
+```md
+* [ ] Checkbox 1
+
+* [x] Checkbox 2 Selected
+
+* [ ] Checkbox 3
+```
+<br>
+
