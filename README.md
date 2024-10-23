@@ -1090,3 +1090,21 @@ Use the same syntax as fenced code blocks but specify diff after the three backt
 ```
 ````
 
+
+##
+### Recommendation > Use YAML : A Human-Friendly Data Serialization Language
+
+` Syntax : YAML`
+
+````md
+```yaml
+name: John Doe
+location: New York, USA
+origin: Canada
+education: Bachelor's in Computer Science
+occupation: Software Engineer
+company: ***
+
+```
+````
+
