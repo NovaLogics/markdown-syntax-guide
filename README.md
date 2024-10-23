@@ -1734,3 +1734,24 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 > Vital information required for users to attain success.
 ```
 <br>
+
+<!-- --------------| 12.4 | WARNING |-|-------------- -->
+
+
+##
+### 12.4 ‣ WARNING
+
+`Preview :` 
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+```
+<br>
