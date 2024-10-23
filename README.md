@@ -33,6 +33,16 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
    - <samp> Basic styles ○ Fenced code blocks ○ Diff Code block ○ </samp>  
 8. [Text Decoration](#8--text-decoration)
    - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
+9. [Line Settings](#9--line-settings)
+   - <samp> Horizontal Line ○ Line break ○ </samp>  
+10. [Mathematical Expressions](#10--mathematical-expressions)
+    - <samp> Inline expressions ○ Block Expressions ○ </samp>  
+11. [View components](#11--view-components)
+    - <samp> CheckBox ○ Pie Chart ○ Badges ○ Custom Buttons ○ </samp>  
+12. [Markdown Alerts](#12--markdown-alerts)
+    - <samp> NOTE ○ TIP ○ IMPORTANT ○ WARNING ○ CAUTION ○ </samp> 
+13. [Tables](#13--tables)
+    - <samp> Basic Table types ○ Table Alignment ○ Multi-line data ○ Nested Table ○ Table Styling ○  </samp>  
 
 <br>  
 
@@ -1260,3 +1270,780 @@ This is a normal text
 >>>> Fourth level
 >>>>> Fifth level
 ```
+
+<!-- --------------| 8.5 | Multi-line text |-|-------------- -->
+
+##
+### 8.5 ‣ Multi-line text
+
+You can add either 2 spaces or 4 spaces at the end of a line before starting a new line to achieve an indented effect.
+
+`Preview :`
+
+First level  
+Second level    
+Third level  
+
+<br>
+
+` Syntax : `
+
+```md
+First level  
+Second level    
+Third level  
+```
+
+<!-- --------------| 8.6 | Anchor |-|-------------- -->
+
+##
+### 8.6 ‣ Anchor
+
+Each title in GitHub Flavored Markdown (GFM) serves as an anchor, similar to an HTML anchor (#).   
+For example:
+
+#### NOTE : Keep in mind that all letters in the title are converted to lowercase.
+
+`Preview :`
+
+[Back to contents](#contents)
+
+
+<br>
+
+` Syntax : `
+
+```md
+[Back to contents](#contents)
+```
+
+<!-- --------------| 8.7 | Visible markdown characters |-|-------------- -->
+
+##
+### 8.7 ‣ Visible markdown characters
+
+To make special characters visible in Markdown, you can escape them using a backslash (\\).  
+Here are some common examples:
+
+`Preview :`
+
+\<br>
+
+
+` Syntax : `
+
+```md
+\<br>
+```
+
+<!-- --------------| 8.8 | Comments in Markdown |-|-------------- -->
+
+##
+### 8.8 ‣ Comments in Markdown
+
+You can add comments in Markdown using HTML-style comments:
+
+
+` Syntax : `
+
+```md
+<!-- comment written in markdown -->
+```
+
+#### NOTE : These comments will be invisible when viewing the README file.
+
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 9 | Line Settings |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 9 | Line Settings
+
+<!-- --------------| 9.1 | Horizontal Line |-|-------------- -->
+
+### 9.1 ‣ Horizontal Line
+
+### ‣ Style 1
+
+`Preview :`
+
+#
+
+<br>
+
+` Syntax : `
+
+```md
+#
+```
+
+Alternative ways
+
+```md
+##
+```
+<br>
+
+### ‣ Style 2
+
+`Preview :` 
+
+___
+
+<br>
+
+` Syntax : `
+
+```md
+___
+```
+
+Alternative ways
+
+```md
+***
+```
+
+```md
+--- 
+```
+
+```md
+<hr>
+```
+
+<!-- --------------| 9.2 | Break between lines |-|-------------- -->
+
+##
+### 9.2 ‣ Break between lines \<br>
+
+`Preview :`
+
+This is a <br>normal text
+
+<br>
+
+` Syntax : `
+
+```md
+This is a <br>normal text
+```
+
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 10 | Mathematical Expressions |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 10 | Mathematical Expressions
+
+You can use LaTeX-style syntax to render math expressions in Markdown, allowing you to present mathematical content both inline (using `$` delimiters) and as blocks (using `$$` delimiters)
+
+<!-- --------------| 10.1 | Inline expressions |-|-------------- -->
+
+##
+### 10.1 ‣ Inline expressions
+To include a math expression inline, simply place the expression between two dollar ( `$` ) signs.  
+Here’s a basic example:
+
+$\sqrt{5x}+(25+x)^2$
+
+Additionally, you can use the following expression to demonstrate inline math:
+<br>
+
+`Preview :`
+<br>
+
+This sentence uses `$` delimiters to show math inline:  
+$\frac{2a+b}{c} = d$
+
+<br>
+
+` Syntax : `
+
+```md
+This sentence uses `$` delimiters to show math inline:  
+$\frac{2a+b}{c} = d$
+```
+<br>
+
+<!-- --------------| 10.2 | Block Expressions |-|-------------- -->
+
+##
+### 10.2 ‣ Block Expressions
+
+To display a mathematical expression as a multiline block, start a new line and enclose the expression with two dollar symbols `$$`.  
+This format is particularly useful for complex equations or when you want to emphasize the math content.
+
+Here’s an example of a block expression:
+
+`Preview :` 
+<br>
+
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
+
+<br>
+
+` Syntax : `
+
+```md
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a)$$
+```
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 11 | View Components |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 11 | View Components
+
+<!-- --------------| 11.1 | CheckBox |-|-------------- -->
+
+### 11.1 ‣ CheckBox
+
+`Preview :` 
+<br>
+
+* [ ] Checkbox 1
+
+* [x] Checkbox 2 Selected
+
+* [ ] Checkbox 3
+
+<br>
+
+` Syntax : `
+<br>
+
+```md
+* [ ] Checkbox 1
+
+* [x] Checkbox 2 Selected
+
+* [ ] Checkbox 3
+```
+<br>
+
+<!-- --------------| 11.2 | Pie Chart |-|-------------- -->
+
+##
+### 11.2 ‣ Pie Chart
+
+<br>
+
+`Preview :` 
+<br>
+
+```mermaid
+pie
+    "Dogs" : 450
+    "Cats" : 500
+    "Parrots" : 50
+```
+
+` Syntax : `
+<br>
+
+````md
+```mermaid
+pie
+    "Dogs" : 450
+    "Cats" : 500
+    "Parrots" : 50
+```
+````
+<br>
+
+<!-- --------------| 11.3 | Badges |-|-------------- -->
+
+##
+### 11.3 ‣ Badges
+
+To get dynamically generated GitHub stats on your READMEs, check out [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) !
+
+
+`Preview :` 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaLogics)](https://github.com/NovaLogics/github-readme-stats)
+
+` Syntax : `
+<br>
+**Change the `?username= value` to your GitHub username.**
+````md
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaLogics)](https://github.com/NovaLogics/github-readme-stats)
+````
+
+#
+`Preview :` 
+<br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics)](https://github.com/NovaLogics)
+
+<br>  
+
+` Syntax : `
+<br>
+**Change the `?username= value` to your GitHub username.**
+````md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics)](https://github.com/NovaLogics)
+````
+
+<br>
+
+<!-- --------------| 11.4 | Custom Buttons |-|-------------- -->
+
+##
+### 11.4 ‣ Custom Buttons
+
+`Preview :` 
+
+<kbd>[ GitHub Login ](https://github.com/login)</kbd>
+
+<br>
+
+` Syntax : `
+
+```md
+<kbd>[ GitHub Login ](https://github.com/login)</kbd>
+```
+#
+
+`Preview :` 
+
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
+
+<br>
+
+` Syntax : `
+
+```md
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
+```
+
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 12 | Markdown Alerts |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 12 | Markdown Alerts
+
+Alerts are special features in Markdown used to highlight important information.  
+On GitHub, these alerts are shown with different colors and icons to help users quickly understand how important the content is.
+
+<!-- --------------| 12.1 | NOTE |-|-------------- -->
+
+##
+### 12.1 ‣ NOTE
+
+`Preview :` 
+
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+```
+<br>
+
+<!-- --------------| 12.2 | TIP |-|-------------- -->
+
+##
+### 12.2 ‣ TIP
+
+`Preview :` 
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+```
+<br>
+
+<!-- --------------| 12.3 | IMPORTANT |-|-------------- -->
+
+##
+### 12.3 ‣ IMPORTANT
+
+`Preview :` 
+
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+```
+<br>
+
+<!-- --------------| 12.4 | WARNING |-|-------------- -->
+
+##
+### 12.4 ‣ WARNING
+
+`Preview :` 
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+```
+<br>
+
+<!-- --------------| 12.5 | CAUTION |-|-------------- -->
+
+##
+### 12.5 ‣ CAUTION
+
+`Preview :` 
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+
+<br>
+
+` Syntax : `
+
+```md
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
+```
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 13 | Tables |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 13 | Tables
+
+<!-- --------------| 13.1 | Basic Table types |-|-------------- -->
+
+### 13.1 ‣ Basic Table types
+
+`Preview :` 
+<br>  
+
+|Header 1|Header 2|Header 3|
+| --- | --- | --- |
+| First  | Data | Row |
+| Second | Data | Row |
+| Third  | Data | Row |
+
+<br> 
+
+` Syntax : `
+
+```md
+|Header 1|Header 2|Header 3|
+| --- | --- | --- |
+| First  | Data | Row |
+| Second | Data | Row |
+| Third  | Data | Row |
+```
+
+Alternative ways
+
+```md
+<table>
+ <tr>
+  <td width="33%">Header 1</td> 
+  <td width="33%">Header 2</td>
+  <td width="33%">Header 3</td>
+ </tr>
+
+ <tr>
+   <td>First</td>   
+   <td>Data</td>
+   <td>Row</td>
+ </tr>
+</table>
+```
+
+<!-- --------------| 13.2 | Table Alignment |-|-------------- -->
+
+##
+### 13.2 ‣ Table Alignment
+
+- `-`   Default 
+- `:-`  Align Left  
+- `:-:` Align Center
+- `-:`  Align Right
+
+
+`Preview :`  
+
+| Default | Left  | Center | Right |
+| - | :- | :-: | -: |
+| 10000 | 10000 | 10000 | 10000 |
+| 1000000000001 | 1000000000001 | 1000000000001 | 1000000000001 |
+| 20002 | 20002 | 20002 | 20002 |
+
+<br> 
+
+` Syntax : `
+
+```md
+| Default | Left  | Center | Right |
+| - | :- | :-: | -: |
+| 10000 | 10000 | 10000 | 10000 |
+| 1000000000001 | 1000000000001 | 1000000000001 | 1000000000001 |
+| 20002 | 20002 | 20002 | 20002 |
+```
+
+<br>
+
+<!-- --------------| 13.3 | Multi-line data |-|-------------- -->
+
+##
+### 13.3 ‣ Multi-line data
+
+`Preview :` 
+
+|Header 1|Header 2|Header 3|
+|---|---|---|
+| Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
+
+<br> 
+
+` Syntax : `
+
+```md
+|Header 1|Header 2|Header 3|
+|---|---|---|
+| Data 1 | Data 2 <br> Data 3 <br> Data 4 | Data 5 |
+```
+
+<br>
+
+<!-- --------------| 13.4 | Nested Table |-|-------------- -->
+
+##
+### 13.4 ‣ Nested Table
+
+`Preview :` 
+
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+
+<td>
+
+| H 1 | H 2 |
+|--|--|
+| Data 1 | Data 2 |
+
+</td><td>
+
+| H 1 | H 2 | H 3 |
+|--|--|--|
+| Data 1 | Data 2 | Data 3 |
+
+</td></tr> 
+</table>
+
+<br> 
+
+` Syntax : `
+
+```md
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+
+<td>
+
+| H 1 | H 2 |
+|--|--|
+| Data 1 | Data 2 |
+
+</td><td>
+
+| H 1 | H 2 | H 3 |
+|--|--|--|
+| Data 1 | Data 2 | Data 3 |
+
+</td></tr> 
+</table>
+```
+
+<br>
+
+<!-- --------------| 13.5 | Styling |-|-------------- -->
+
+##
+### 13.5 ‣ Styling
+
+`Preview :` 
+
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+<td>
+    
+<pre>
+    <h3 align="center"> This is a Cool Icon  </h3>
+
+    <img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    />
+
+</pre>
+
+</td>
+<td>
+    
+<pre lang="js">
+    console.log('Hello');
+    console.log('World!');
+    console.log('This is');
+    console.log('JavaScript');
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br> 
+
+` Syntax : `
+
+```md
+<table>
+<tr>
+<th>Header 1</th>
+<th>Header 2</th>
+</tr>
+<tr>
+<td>
+    
+<pre>
+    <h3 align="center"> This is a Cool Icon  </h3>
+
+    <img 
+    src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/image_file.png" 
+    width="128" 
+    height="128" 
+    />
+
+</pre>
+
+</td>
+<td>
+    
+<pre lang="js">
+    console.log('Hello');
+    console.log('World!');
+    console.log('This is');
+    console.log('JavaScript');
+</pre>
+
+</td>
+</tr>
+</table>
+```
+
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
