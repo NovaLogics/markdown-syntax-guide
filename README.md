@@ -16,7 +16,23 @@ Beginner to Expert
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
 ## Contents
- -Adding Soon-
+
+1. [Headings](#1--headings)
+   - <samp> H1 to H6 tags </samp>  
+2. [Text styles](#2--text-styles)
+   - <samp> Bold ○ Italic ○ Strikethrough ○ Underlined ○ Subscript ○ Superscript ○ and more.. </samp>  
+3. [Lists](#3--lists)
+   - <samp> Ordered ○ Unordered ○ </samp>  
+4. [Links](#4--links)
+   - <samp> Auto link ○ Link Label ○ Hover ○ Repository Links ○ Footnote ○ and more.. </samp>  
+5. [Images](#5--images)
+   - <samp> Basic tags ○ Image Embed element ○ GIF ○ Icons ○ Image with click action ○ </samp>  
+6. [Alignments](#6--alignments)
+   - <samp> Text Alignments ○ Image Alignments ○ </samp>  
+7. [Code Block](#7--code-block)
+   - <samp> Basic styles ○ Fenced code blocks ○ Diff Code block ○ </samp>  
+8. [Text Decoration](#8--text-decoration)
+   - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
 
 <br>  
 
@@ -1133,7 +1149,6 @@ company: ***
 ### 8.1 ‣ Text Highlighting
 
 Using backticks( ` ) is a simple way to create tags for articles, such as 
-<br>
 
 <br>
 
@@ -1149,4 +1164,99 @@ Using backticks( ` ) is a simple way to create tags for articles, such as
 
 ```git
 `GitHub` : Let's build from here - `any important text`
+```
+
+<!-- --------------| 8.2 | Emoji |-|-------------- -->
+
+##
+### 8.2 ‣ Emoji
+
+`Preview :and: Syntax`
+
+
+🌳 🐻 🍯 🌺
+
+You can easily add emojis by placing them directly in your text, like this: 🌳 🐻 🍯 🌺
+
+or you can use shortcode format
+
+
+`Preview :`
+
+
+:deciduous_tree: :bear: :honey_pot: :hibiscus:
+
+
+` Syntax : `
+
+```md
+:deciduous_tree: :bear: :honey_pot: :hibiscus:
+```
+
+
+For a comprehensive list of all supported emojis on GitHub, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+<!-- --------------| 8.3 | Quoting Text / Blockquotes |-|-------------- -->
+
+##
+### 8.3 ‣ Quoting Text / Blockquotes >
+
+`Preview :`
+
+> This is a block quoted text
+
+<br>
+
+` Syntax : `
+
+```git
+> This is a block quoted text
+```
+<br>
+
+**Difference**
+<br>
+<br>
+
+`Preview :`
+
+This is a normal text
+> Block quoted text  
+
+This is a normal text
+
+<br>
+
+` Syntax : `
+
+```git
+This is a normal text
+> Block quoted text
+This is a normal text
+```
+
+<!-- --------------| 8.4 | Multi-level blockquotes |-|-------------- -->
+
+##
+### 8.4 ‣ Multi-level blockquotes
+
+`Preview :`
+
+> First level
+>> Second level
+>>> Third level
+>>>> Fourth level
+>>>>> Fifth level
+
+<br>
+
+` Syntax : `
+
+```md
+> First level
+>> Second level
+>>> Third level
+>>>> Fourth level
+>>>>> Fifth level
 ```
