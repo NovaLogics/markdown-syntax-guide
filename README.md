@@ -554,4 +554,31 @@ GitHub : [Login](https://github.com/login "Sign in to GitHub! Click here") : Let
 ```
 
 <br>
+
 <br>
+
+<!-- --------------| 4.5 | Footnote  |-|-------------- -->
+
+## 4.5 ‣ Footnote 
+
+`Preview :`
+
+Learn advanced formatting features by creating a README for your GitHub profile [^1].  
+Github markdown cheat sheet [^2].
+
+[^1]: Reference : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+[^2]: Reference : https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca
+
+<br>
+
+` Syntax : [ ^1 ]`
+
+```md
+Learn advanced formatting features by creating a README for your GitHub profile [^1].  
+Github markdown cheat sheet [^2].
+
+[^1]: Reference : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+[^2]: Reference : https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca
+```
+<br>
+
