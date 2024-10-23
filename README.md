@@ -1620,3 +1620,33 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 ````
 
 <br>
+
+<!-- --------------| 11.4 | Custom Buttons |-|-------------- -->
+
+##
+### 11.4 ‣ Custom Buttons
+
+`Preview :` 
+
+<kbd>[ GitHub Login ](https://github.com/login)</kbd>
+
+<br>
+
+` Syntax : `
+
+```md
+<kbd>[ GitHub Login ](https://github.com/login)</kbd>
+```
+#
+
+`Preview :` 
+
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
+
+<br>
+
+` Syntax : `
+
+```md
+<kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
+```
