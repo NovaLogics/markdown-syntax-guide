@@ -626,3 +626,24 @@ Github markdown cheat sheet [^2].
 
 # 5 | Images
 
+<!-- --------------| 5.1 | Basic Image  |-|-------------- -->
+
+## 5.1 ‣ Basic Image 
+<kbd> !\[Alternative-text](URL "Title-text") </kbd>
+
+*Alternative text and title text are optional*
+##
+
+`Preview :`
+
+![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
+
+<br>
+
+` Syntax : `
+
+```md
+![Github Logo](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-128.png "Title text")
+```
+
+<br>
