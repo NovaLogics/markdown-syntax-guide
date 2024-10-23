@@ -1050,3 +1050,43 @@ print('python')
 ```
 ````
 
+<!-- --------------| 7.3 | Diff Code block |-|-------------- -->
+
+##
+### 7.3 ‣ Diff Code block
+
+In version control, diff highlights changes in various colors. In GitHub Flavored Markdown (GFM), you can display:
+
+- Green for additions (+)
+- Red for deletions (-)
+- Orange for changes (!)
+- Gray for comments (#)
+- Purple and bold for metadata (@@) <br>
+    
+Use the same syntax as fenced code blocks but specify diff after the three backticks.
+
+
+`Preview :`
+
+```diff
+- Text Color Red
++ Text Color Green
+! Text Color Orange
+# Text Color Gray
+@@ Text Color Purple And Bold @@
+```
+
+<br>
+
+` Syntax : diff`
+
+````md
+```diff
+- Text Color Red
++ Text Color Green
+! Text Color Orange
+# Text Color Gray
+@@ Text Color Purple And Bold @@
+```
+````
+
