@@ -1132,7 +1132,9 @@ company: ***
 
 ### 8.1 ‣ Text Highlighting
 
-Using backticks( ` ) is a simple way to create tags for articles, such as <br>
+Using backticks( ` ) is a simple way to create tags for articles, such as 
+<br>
+
 <br>
 
 *Preview :*
