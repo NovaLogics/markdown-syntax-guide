@@ -307,6 +307,7 @@ This is the normal text style
 # 3 | Lists
 
 <!-- --------------| 3.1 | Ordered |-|-------------- -->
+
 ## 3.1 ‣ Ordered 
 
 `Preview :`
@@ -359,3 +360,60 @@ This is the normal text style
     1. Second level
 ```
 <br>
+
+<!-- --------------| 3.2 | Unordered |-|-------------- -->
+
+## 3.2 ‣ Unordered
+
+`Preview :`
+
+- Item one
+- Item two
+
+<br>
+
+` Syntax : `
+
+```md
+- Item one
+- Item two
+```
+
+Alternative ways 
+
+
+```md
+* Item one
+* Item two
+
++ Item one
++ Item two
+```
+<br>
+
+##
+### Multi level
+
+`Preview :`
+
+- First level
+  - Second level
+    - Third level
+      - Fourth level
+- First level
+  - Second level
+ 
+<br>
+
+` Syntax : `
+
+```md
+- First level
+  - Second level
+    - Third level
+      - Fourth level
+- First level
+  - Second level
+```
+
+<br>  
