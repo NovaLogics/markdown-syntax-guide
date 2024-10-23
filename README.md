@@ -1260,3 +1260,27 @@ This is a normal text
 >>>> Fourth level
 >>>>> Fifth level
 ```
+
+<!-- --------------| 8.5 | Multi-line text |-|-------------- -->
+
+##
+### 8.5 ‣ Multi-line text
+
+You can add either 2 spaces or 4 spaces at the end of a line before starting a new line to achieve an indented effect.
+
+`Preview :`
+
+First level  
+Second level    
+Third level  
+
+<br>
+
+` Syntax : `
+
+```md
+First level  
+Second level    
+Third level  
+```
+
