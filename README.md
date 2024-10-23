@@ -37,7 +37,8 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
    - <samp> Horizontal Line ○ Line break ○ </samp>  
 10. [Mathematical Expressions](#10--mathematical-expressions)
     - <samp> Inline expressions ○ Block Expressions ○ </samp>  
-
+11. [View components](#11--view-components)
+    - <samp> CheckBox ○ Pie Chart ○ Badges ○ Custom Buttons ○ </samp>  
 
 <br>  
 
@@ -1650,3 +1651,17 @@ To get dynamically generated GitHub stats on your READMEs, check out [GitHub Rea
 ```md
 <kbd>[<br>&nbsp;   🌘 GitHub Login ┈➤  &nbsp;<br><br>](https://github.com/login) </kbd>
 ```
+
+<br>
+
+<br>  
+
+<hr>
+<div align="center">
+   
+  <kbd>[&nbsp; ⮝ &nbsp;  BACK TO TOP  &nbsp;&nbsp;&nbsp;](#contents) </kbd>
+
+</div>
+<hr>
+
+<br>
