@@ -1789,3 +1789,9 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 <hr>
 
 <br>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 13 | Tables |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 13 | Tables
