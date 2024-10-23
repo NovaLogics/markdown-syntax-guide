@@ -1795,3 +1795,46 @@ On GitHub, these alerts are shown with different colors and icons to help users 
 <!-- ---------------------------------------------- -->
 
 # 13 | Tables
+
+<!-- --------------| 13.1 | Basic Table types |-|-------------- -->
+
+### 13.1 ‣ Basic Table types
+
+`Preview :` 
+<br>  
+
+|Header 1|Header 2|Header 3|
+| --- | --- | --- |
+| First  | Data | Row |
+| Second | Data | Row |
+| Third  | Data | Row |
+
+<br> 
+
+` Syntax : `
+
+```md
+|Header 1|Header 2|Header 3|
+| --- | --- | --- |
+| First  | Data | Row |
+| Second | Data | Row |
+| Third  | Data | Row |
+```
+
+Alternative ways
+
+```md
+<table>
+ <tr>
+  <td width="33%">Header 1</td> 
+  <td width="33%">Header 2</td>
+  <td width="33%">Header 3</td>
+ </tr>
+
+ <tr>
+   <td>First</td>   
+   <td>Data</td>
+   <td>Row</td>
+ </tr>
+</table>
+```
