@@ -582,3 +582,28 @@ Github markdown cheat sheet [^2].
 ```
 <br>
 
+<!-- --------------| 4.6 | Reference  |-|-------------- -->
+
+## 4.6 ‣ Reference 
+
+`Preview :`
+
+[GitHub : Let's build from here][github-link] <br>
+[Hello there, sign in to GitHub][Login link]
+<br>
+
+[github-link]: https://github.com
+[Login link]: https://github.com/login
+
+
+<br>
+
+` Syntax : [ ][ ]`
+
+```md
+[GitHub : Let's build from here][github-link]
+[Hello there, sign in to GitHub][Login link]
+
+[github-link]: https://github.com
+[Login link]: https://github.com/login
+```
