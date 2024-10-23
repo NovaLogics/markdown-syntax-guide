@@ -912,3 +912,50 @@ Github markdown cheat sheet [^2].
 </p>
 ```
 ##
+
+<!-- --------------| 6.2.4 | Multiple Images |-|-------------- -->
+
+### Multiple Images
+
+`Preview :`
+
+<p align="center">
+<img 
+    src="https://plus.unsplash.com/premium_photo-1673292293042-cafd9c8a3ab3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmF0dXJlfGVufDB8fDB8fHww" 
+    width="160" height="280" 
+/>
+<img 
+    src="https://images.unsplash.com/photo-1525869916826-972885c91c1e?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    width="360" height="280" 
+/>
+<img 
+    src="https://images.unsplash.com/photo-1472396961693-142e6e269027?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlfGVufDB8fDB8fHww" 
+    width="160" height="280" 
+/>
+</p>
+
+<br>
+
+` Syntax : `
+
+
+```md
+<p align="center">
+<img 
+    src="https://plus.unsplash.com/premium_photo-1673292293042-cafd9c8a3ab3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmF0dXJlfGVufDB8fDB8fHww" 
+    width="160" height="280" 
+/>
+<img 
+    src="https://images.unsplash.com/photo-1525869916826-972885c91c1e?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    width="360" height="280" 
+/>
+<img 
+    src="https://images.unsplash.com/photo-1472396961693-142e6e269027?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlfGVufDB8fDB8fHww" 
+    width="160" height="280" 
+/>
+</p>
+```
+
+<br>
+
+<br>  
