@@ -15,3 +15,12 @@ Beginner to Expert
 
 It’s commonly applied in Gists, comments, and files with .md or .markdown extensions. Markdown is also popular for content writing on websites and blogs, as well as for creating documentation and installation guides within project directories.
 
+<br>  
+
+<hr>
+
+<!-- ---------------------------------------------- -->
+<!-- --------------| 1 | Headings |-|-------------- -->
+<!-- ---------------------------------------------- -->
+
+# 1 | Headings
