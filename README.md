@@ -32,7 +32,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 7. [Code Block](#7--code-block)
    - <samp> Basic styles ○ Fenced code blocks ○ Diff Code block ○ </samp>  
 8. [Text Decoration](#8--text-decoration)
-   - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
+   - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Spaces ○ and more.. </samp>  
 9. [Line Settings](#9--line-settings)
    - <samp> Horizontal Line ○ Line break ○ </samp>  
 10. [Mathematical Expressions](#10--mathematical-expressions)
@@ -1336,10 +1336,50 @@ Here are some common examples:
 \<br>
 ```
 
-<!-- --------------| 8.8 | Comments in Markdown |-|-------------- -->
+<!-- --------------| 8.8 | Adding Spaces in Markdown |-|-------------- -->
 
 ##
-### 8.8 ‣ Comments in Markdown
+### 8.8 ‣ Adding Spaces in Markdown
+
+Markdown doesn’t support extra spaces directly, but you can use HTML tags:
+
+- Non-Breaking Space ( `&nbsp;` ):  
+    - Adds a slightly wider fixed space and prevents line breaks.
+
+
+- En Space ( `&ensp;` ):  
+    - Adds a half-width space, useful for small gaps.
+
+
+- Em Space ( `&emsp;` ):  
+    - Inserts a space equal to the font size, creating a larger gap.
+
+
+`Preview :`
+<p>This is a | &nbsp; | Small space / Regular space.</p>
+<p>This is a | &ensp; | Medium space / Two spaces.</p>
+<p>This is a | &emsp; | large space / Four spaces.</p>
+
+` Syntax : `
+
+```xhtml
+<p>This is a | &nbsp; | Small space / Regular space.</p>
+<p>This is a | &ensp; | Medium space / Two spaces.</p>
+<p>This is a | &emsp; | large space / Four spaces.</p>
+```
+
+```xhtml
+&nbsp;    <!-- Regular space -->
+&ensp;    <!-- Two spaces gap -->
+&emsp;    <!-- Four spaces gap -->
+
+```
+
+
+<!-- --------------| 8.9 | Comments in Markdown |-|-------------- -->
+
+##
+### 8.9 ‣ Comments in Markdown
 
 You can add comments in Markdown using HTML-style comments:
 
