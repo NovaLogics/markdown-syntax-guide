@@ -1360,7 +1360,20 @@ Markdown doesn’t support extra spaces directly, but you can use HTML tags:
 <p>This is a | &ensp; | Medium space / Two spaces.</p>
 <p>This is a | &emsp; | large space / Four spaces.</p>
 
+` Syntax : `
 
+```xhtml
+<p>This is a | &nbsp; | Small space / Regular space.</p>
+<p>This is a | &ensp; | Medium space / Two spaces.</p>
+<p>This is a | &emsp; | large space / Four spaces.</p>
+```
+
+```xhtml
+&nbsp;    <!-- Regular space -->
+&ensp;    <!-- Two spaces gap -->
+&emsp;    <!-- Four spaces gap -->
+
+```
 
 
 <!-- --------------| 8.9 | Comments in Markdown |-|-------------- -->
