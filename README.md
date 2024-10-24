@@ -32,7 +32,7 @@ It’s commonly applied in Gists, comments, and files with .md or .markdown exte
 7. [Code Block](#7--code-block)
    - <samp> Basic styles ○ Fenced code blocks ○ Diff Code block ○ </samp>  
 8. [Text Decoration](#8--text-decoration)
-   - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Comments ○ and more.. </samp>  
+   - <samp> Text Highlighting ○ Emoji ○ Blockquotes ○ Multi-line text ○ Anchor ○ Spaces ○ and more.. </samp>  
 9. [Line Settings](#9--line-settings)
    - <samp> Horizontal Line ○ Line break ○ </samp>  
 10. [Mathematical Expressions](#10--mathematical-expressions)
@@ -1336,7 +1336,7 @@ Here are some common examples:
 \<br>
 ```
 
-<!-- --------------| 8.8 | Comments in Markdown |-|-------------- -->
+<!-- --------------| 8.8 | Adding Spaces in Markdown |-|-------------- -->
 
 ##
 ### 8.8 ‣ Adding Spaces in Markdown
