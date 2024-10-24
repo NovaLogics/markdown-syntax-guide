@@ -1355,7 +1355,10 @@ Markdown doesn’t support extra spaces directly, but you can use HTML tags:
     - Inserts a space equal to the font size, creating a larger gap.
 
 
-
+`Preview :`
+<p>This is a | &nbsp; | Small space / Regular space.</p>
+<p>This is a | &ensp; | Medium space / Two spaces.</p>
+<p>This is a | &emsp; | large space / Four spaces.</p>
 
 
 
