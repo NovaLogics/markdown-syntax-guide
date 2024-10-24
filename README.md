@@ -1339,7 +1339,21 @@ Here are some common examples:
 <!-- --------------| 8.8 | Comments in Markdown |-|-------------- -->
 
 ##
-### 8.8 ‣ Comments in Markdown
+### 8.8 ‣ Adding Spaces in Markdown
+
+Markdown doesn’t support extra spaces directly, but you can use HTML tags:
+
+- Non-Breaking Space ( `&nbsp;` ): Adds a slightly wider fixed space and prevents line breaks.
+- En Space ( `&ensp;` ): Adds a half-width space, useful for small gaps.
+- Em Space ( `&emsp;` ): Inserts a space equal to the font size, creating a larger gap.
+
+
+
+
+<!-- --------------| 8.9 | Comments in Markdown |-|-------------- -->
+
+##
+### 8.9 ‣ Comments in Markdown
 
 You can add comments in Markdown using HTML-style comments:
 
