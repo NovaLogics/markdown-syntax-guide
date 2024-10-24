@@ -1343,9 +1343,19 @@ Here are some common examples:
 
 Markdown doesn’t support extra spaces directly, but you can use HTML tags:
 
-- Non-Breaking Space ( `&nbsp;` ): Adds a slightly wider fixed space and prevents line breaks.
-- En Space ( `&ensp;` ): Adds a half-width space, useful for small gaps.
-- Em Space ( `&emsp;` ): Inserts a space equal to the font size, creating a larger gap.
+- Non-Breaking Space ( `&nbsp;` ):  
+    - Adds a slightly wider fixed space and prevents line breaks.
+
+
+- En Space ( `&ensp;` ):  
+    - Adds a half-width space, useful for small gaps.
+
+
+- Em Space ( `&emsp;` ):  
+    - Inserts a space equal to the font size, creating a larger gap.
+
+
+
 
 
 
